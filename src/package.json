@@ -1,0 +1,22 @@
+{
+  "name": "docker_web_app",
+  "version": "1.0.0",
+  "description": "Node.js on Docker",
+  "author": "Ihor Bondarenko <acro.ihor.bondarenko@gmail.com>",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "express": "latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ihor-bondarenko/docker-playground.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ihor-bondarenko/docker-playground/issues"
+  },
+  "homepage": "https://github.com/ihor-bondarenko/docker-playground#readme"
+}
